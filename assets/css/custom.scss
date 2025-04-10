@@ -1,0 +1,9 @@
+// Example: override sidebar text + active background
+$sidebar-color: #1a1a1a; // default text
+$sidebar-active-color: #ffffff; // active text
+$sidebar-bg-color: #f5f5f5; // sidebar background
+$sidebar-active-bg-color: #007acc; // active highlight
+$link-color: #6f42c1; // sidebar link color
+
+// Apply the colors
+@import "just-the-docs";
