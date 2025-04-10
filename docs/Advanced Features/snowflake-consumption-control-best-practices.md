@@ -42,21 +42,9 @@ GRANT SELECT ON VIEW filtered_warehouse_metering TO ROLE <HOUSEWARE_ROLE>;
 
 That's it! You can let the Houseware team know once this is configured, and daily Slack alerts will start flowing in.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c4ee182-image.png",
-        null,
-        "Houseware Slack bot update for daily credit consumption"
-      ],
-      "align": "center",
-      "caption": "Houseware Slack bot update for daily credit consumption"
-    }
-  ]
-}
-[/block]
+![Houseware Slack bot update for daily credit consumption](https://files.readme.io/c4ee182-image.png)
+
+*Houseware Slack bot update for daily credit consumption*
 
 
 ## Budgets & Quotas
@@ -83,42 +71,14 @@ Follow the steps below to create a resource monitor on Snowflake:
 
 **Step 3:** Set up the resource monitor as required. Refer to the screenshot below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/7926ac2-image.png",
-        null,
-        "Setup Resource Monitor"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Setup Resource Monitor"
-    }
-  ]
-}
-[/block]
+![Setup Resource Monitor](https://files.readme.io/7926ac2-image.png)
+
+*Setup Resource Monitor*
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/cd04836-image.png",
-        null,
-        "A Resource Monitor setup on Snowflake"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "A Resource Monitor setup on Snowflake"
-    }
-  ]
-}
-[/block]
+![A Resource Monitor setup on Snowflake](https://files.readme.io/cd04836-image.png)
+
+*A Resource Monitor setup on Snowflake*
 
 
 ### Budgets
@@ -145,23 +105,9 @@ Once a role has been granted permission to create custom budgets, follow the ste
 
 ![](https://files.readme.io/31eaf64-image.png)
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/3687f48-image.png",
-        null,
-        "A budget setup on Snowflake"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "A budget setup on Snowflake"
-    }
-  ]
-}
-[/block]
+![A budget setup on Snowflake](https://files.readme.io/3687f48-image.png)
+
+*A budget setup on Snowflake*
 
 
 ## Usage dashboard on Houseware ( :sparkles: Coming Soon)

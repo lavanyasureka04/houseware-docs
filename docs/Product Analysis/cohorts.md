@@ -8,23 +8,9 @@ updatedAt: "Wed Mar 20 2024 09:39:29 GMT+0000 (Coordinated Universal Time)"
 ---
 In Houseware, Cohorts are a group of users that share common characteristics. They are super useful to analyze your data only for a particular set of users. It is an ideal combination of user properties and actual event-based behavior on the product. To know more about it, refer to [building blocks of Houseware](https://docs.houseware.io/docs/building-blocks-of-houseware#cohorts).
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/700898f-Screenshot_2023-08-25_at_5.18.53_PM.png",
-        "",
-        "Cohorts page on Houseware"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Cohorts page on Houseware"
-    }
-  ]
-}
-[/block]
+![Cohorts page on Houseware](https://files.readme.io/700898f-Screenshot_2023-08-25_at_5.18.53_PM.png)
+
+*Cohorts page on Houseware*
 
 
 Cohorts can be super helpful if you want to restrict your analysis only to a specific set of users. And that specific set emerges from a combination of user properties and events behavior. The users create cohorts by applying appropriate filters (AND, OR, both can be used) on top of user properties and event behavior, or a combination of both.
@@ -72,22 +58,9 @@ There are two types of filters:
 - Select user properties from the filter drop-down menu. 
 - It will show user properties and their values to select from the drop-down menu, as shown in the gif below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/49e0543-Screenshot_2023-08-25_at_5.50.49_PM.png",
-        "",
-        "Select User Properties"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "caption": "Select User Properties"
-    }
-  ]
-}
-[/block]
+![Select User Properties](https://files.readme.io/49e0543-Screenshot_2023-08-25_at_5.50.49_PM.png)
+
+*Select User Properties*
 
 
 ### Events Behavior:
@@ -101,82 +74,28 @@ The entire event filter is divided into 6 parts.
 5. **Additional counting criteria**: If you want to add more than 1 counting criterion, add it in the 5th part.
 6. **Time**: Select the time period for the event to have been triggered. For example, 1 day, 7 days, 28 days, etc.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f717f66-cohort_creation.gif",
-        "",
-        "Event filters"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "caption": "Event filters"
-    }
-  ]
-}
-[/block]
+![Event filters](https://files.readme.io/f717f66-cohort_creation.gif)
+
+*Event filters*
 
 
 > ✨ **Nested filters**: In the same filter, more details about the event or user property can be added by clicking on the `+ Filter` option given on the right-side of your filter statement. For example, users who clicked Joint Plan should belong to the plan `basic`. This information can be added using the `+ Filter` option.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/98806ba-Screenshot_2023-08-28_at_2.33.38_PM.png",
-        "",
-        ""
-      ],
-      "align": "center"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/98806ba-Screenshot_2023-08-28_at_2.33.38_PM.png)
 
 
 > 🌟 **Feature Highlight**: Multiple AND or OR filters can be added by clicking on the `Add Filters` button below, which allows creation of complex cohorts, as shown in the gif below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e6d47ee-And_filter.gif",
-        "",
-        "Add an AND filter to create cohort"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Add an AND filter to create a cohort"
-    }
-  ]
-}
-[/block]
+![Add an AND filter to create cohort](https://files.readme.io/e6d47ee-And_filter.gif)
+
+*Add an AND filter to create a cohort*
 
 
 To make sure that you do not make mistakes while combining the `AND` and `OR` filters, the `AND` filters are given precedence and hence stuck together, in the same box, whereas `OR` is separated.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/fc68d91-Screenshot_2023-09-20_at_1.50.53_AM.png",
-        "",
-        "The `OR` filter group is separated, whereas the `AND` filter group is stuck together"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "The `OR` filter group is separated, whereas the `AND` filter group is stuck together"
-    }
-  ]
-}
-[/block]
+![The `OR` filter group is separated, whereas the `AND` filter group is stuck together](https://files.readme.io/fc68d91-Screenshot_2023-09-20_at_1.50.53_AM.png)
+
+*The `OR` filter group is separated, whereas the `AND` filter group is stuck together*
 
 
 Just like in arithmetic operators, if the brackets are missing, then an expression as given below might lead to different results:
@@ -190,23 +109,9 @@ Also, within the same filter group, to ensure accuracy, you can only apply eithe
 
 For example, if you want to create a cohort of users who did start a training or end a training but did not share their achievement, this is how you will create it:
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/aabe83c-cohort_creation_withfilters.gif",
-        "",
-        "How to use filters and filter group"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "How to use filters and filter group"
-    }
-  ]
-}
-[/block]
+![How to use filters and filter group](https://files.readme.io/aabe83c-cohort_creation_withfilters.gif)
+
+*How to use filters and filter group*
 
 
 > 👀 **Note:** As you can see in the GIF above, inside the same filter group, which means at the same hierarchy, we cannot have both `AND` and `OR`. Hence, to add an `OR` filter, we use the Add filter group option.
@@ -217,23 +122,9 @@ Click on the `Save` button and :tada: your cohort is created, saved, and ready t
 
 You can now use this cohort to use as a breakdown or filter in visualizations like Funnels and Trends, as shown in the gif below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/bb306b9-cohort_use.gif",
-        "",
-        "Use Cohorts as Breakdown"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Use Cohorts as Breakdown"
-    }
-  ]
-}
-[/block]
+![Use Cohorts as Breakdown](https://files.readme.io/bb306b9-cohort_use.gif)
+
+*Use Cohorts as Breakdown*
 
 
 Now try it out for yourself! :sunglasses: and feel free to reach out to us if you have any questions!

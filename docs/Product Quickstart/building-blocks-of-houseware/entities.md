@@ -14,23 +14,9 @@ Events rarely contain all the information PMs might need to analyse user behavio
 
 <br />
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/41b3bf0-Web_App_Reference_Architecture_6.png",
-        "",
-        "Houseware Architecture"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Events and Entities, enabling cross-functional product analytics"
-    }
-  ]
-}
-[/block]
+![Houseware Architecture](https://files.readme.io/41b3bf0-Web_App_Reference_Architecture_6.png)
+
+*Events and Entities, enabling cross-functional product analytics*
 
 
 <br />
@@ -39,23 +25,9 @@ Events rarely contain all the information PMs might need to analyse user behavio
 
 # Use Cases & Examples
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c774945-image.png",
-        null,
-        "Houseware allows users to define and analyse both events and entities, on a single platform"
-      ],
-      "align": "center",
-      "sizing": "650px",
-      "border": true,
-      "caption": "Houseware allows users to define and analyze both events and entities on a single platform"
-    }
-  ]
-}
-[/block]
+![Houseware allows users to define and analyse both events and entities, on a single platform](https://files.readme.io/c774945-image.png)
+
+*Houseware allows users to define and analyze both events and entities on a single platform*
 
 
 Houseware empowers product managers to filter and break down their analyses by granular entity properties.
@@ -66,40 +38,10 @@ Below is a digital fitness app where users can purchase subscription plans.
 
 <br />
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/51c662e-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "350px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/51c662e-image.png)
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/d14f901-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "350px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/d14f901-image.png)
 
 
 <br />
@@ -146,23 +88,9 @@ Provide the following details on Houseware to define an entity:
     > 1. Users can list one or more event properties while defining a mapping with the entity unique key.
     > 2. Events containing any of the above-listed event properties will automatically inherit all the attributes related to the entity.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f3661f3-image.png",
-        null,
-        "Illustration of 2 entities - Transaction and Class and how they are related to product events"
-      ],
-      "align": "center",
-      "sizing": "650px",
-      "border": true,
-      "caption": "Illustration of 2 entities - Transaction and Class and how they are related to product events"
-    }
-  ]
-}
-[/block]
+![Illustration of 2 entities - Transaction and Class and how they are related to product events](https://files.readme.io/f3661f3-image.png)
+
+*Illustration of 2 entities - Transaction and Class and how they are related to product events*
 
 
 ***

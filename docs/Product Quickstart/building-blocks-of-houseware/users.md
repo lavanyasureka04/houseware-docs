@@ -19,23 +19,9 @@ Houseware identifies each unique user from your events schema's `user_id` column
 
 The User Activity page is available on the left-hand nav bar on Houseware. It lets you go through the entire event stream of a user. It shows the entire sequence of events a user did on each day, along with details of each event performed. Check out the GIF attached below for reference.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/34c3e70-user_activity_hw.gif",
-        "",
-        "Houseware User Activity page"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Houseware User Activity page"
-    }
-  ]
-}
-[/block]
+![Houseware User Activity page](https://files.readme.io/34c3e70-user_activity_hw.gif)
+
+*Houseware User Activity page*
 
 
 This page can be especially useful for debugging in case a particular user is facing some issue with your product and you want to quickly go through the list of events they did.
@@ -50,23 +36,9 @@ Houseware currently supports two types of Houseware user roles - `Admin` and `Me
 2. :point_right: Assign the role of admin or member to each Houseware user added
 3. :lock: Hide events
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/07694bb-Screenshot_2023-09-20_at_4.42.59_PM.png",
-        "",
-        "Dropdown for admins to select user role"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true,
-      "caption": "Dropdown for admins to select user role"
-    }
-  ]
-}
-[/block]
+![Dropdown for admins to select user role](https://files.readme.io/07694bb-Screenshot_2023-09-20_at_4.42.59_PM.png)
+
+*Dropdown for admins to select user role*
 
 
 Also, the admin tab on the left-hand nav will be **visible only to the admin users** and not to the members.
