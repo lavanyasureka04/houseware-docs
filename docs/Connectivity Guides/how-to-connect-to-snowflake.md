@@ -104,67 +104,25 @@ grant role identifier($db_role) to user identifier($db_user);
 
 - **Select Plug Houseware Option**: You will see the page below on logging in for the first time (before setting up). Choose the "Plug Houseware to work on your Cloud data warehouse" option here.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b73d134-image.png",
-        null,
-        "First landing page, click on the \"Connect warehouse\" button"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "First landing page, click on the \"Connect warehouse\" button"
-    }
-  ]
-}
-[/block]
+![First landing page, click on the "Connect warehouse" button](https://files.readme.io/b73d134-image.png)
+
+*First landing page, click on the "Connect warehouse" button*
 
 
 - **Select Snowflake:** Choose Snowflake as the data warehouse you want to connect to on the page shown below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/77e84d7-image.png",
-        null,
-        "Choose your Cloud Data Warehouse"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Choose your Cloud Data Warehouse"
-    }
-  ]
-}
-[/block]
+![Choose your Cloud Data Warehouse](https://files.readme.io/77e84d7-image.png)
+
+*Choose your Cloud Data Warehouse*
 
 
 ## Step 4: Fill up the details at the bottom of the Connecting Snowflake page
 
 Fill up the details used in the code snippets in step 2 along with some additional information in the form. This form is located at the bottom of the Connecting Snowflake page, as shown in the image below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2f6aba7-update_snowflake_form.png",
-        null,
-        "Form at the bottom of the Connecting Snowflake page"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Form at the bottom of the Connecting Snowflake page"
-    }
-  ]
-}
-[/block]
+![Form at the bottom of the Connecting Snowflake page](https://files.readme.io/2f6aba7-update_snowflake_form.png)
+
+*Form at the bottom of the Connecting Snowflake page*
 
 
 Here is a guide to help you fill out the form:
@@ -183,23 +141,9 @@ Step 2: Click on the Accounts tab and you will be redirected to the account page
 
 Step 3: On the Accounts page, hover over your Account name, and your Snowflake account URL will show up, looking like - `https://abc.snowflakecomputing.com` as shown in the orange highlighted part of the image below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9c0331c-Screenshot_2024-03-05_at_4.09.59_PM.png",
-        "",
-        "How to access your Snowflake account URL"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "How to access your Snowflake account URL"
-    }
-  ]
-}
-[/block]
+![How to access your Snowflake account URL](https://files.readme.io/9c0331c-Screenshot_2024-03-05_at_4.09.59_PM.png)
+
+*How to access your Snowflake account URL*
 
 
 Once your form is complete, click on the Connect button to complete the connection. And :tada: your Snowflake is now connected to your Houseware application! 

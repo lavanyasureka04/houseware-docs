@@ -190,64 +190,19 @@ grant role identifier($db_role) to user identifier($snowflake_user);
 
 When you first log into Houseware, you will be prompted to chose one of two options. Choose the "Connect Warehouse" option here.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b73d134-image.png",
-        null,
-        "First landing page, click on the \"Connect warehouse\" button"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![First landing page, click on the "Connect warehouse" button](https://files.readme.io/b73d134-image.png)
 
 
 Next, choose Snowflake as the data warehouse you want to connect to on the page shown below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/77e84d7-image.png",
-        null,
-        "Choose your Cloud Data Warehouse"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![Choose your Cloud Data Warehouse](https://files.readme.io/77e84d7-image.png)
 
 
 ### Step 3: Share Snowflake details on Houseware to connect successfully
 
 Fill up the form using the details you used in the code snippets in Part I and general Snowflake account information.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2f6aba7-update_snowflake_form.png",
-        null,
-        "Form at the bottom of the Connecting Snowflake page"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![Form at the bottom of the Connecting Snowflake page](https://files.readme.io/2f6aba7-update_snowflake_form.png)
 
 
 Here is a short guide to help you share Snowflake details:
@@ -258,7 +213,7 @@ Here is a short guide to help you share Snowflake details:
   - Click on the Accounts tab and you will be redirected to the account page.
   - On the Accounts page, hover over your Account name, and your Snowflake account URL will show up. It'll like:`https://abc.snowflakecomputing.com` as shown in the image below.
 
-  [block:image]{"images":[{"image":["https://files.readme.io/9c0331c-Screenshot_2024-03-05_at_4.09.59_PM.png","","How to access your Snowflake account URL"],"align":"center","sizing":"500px","border":true}]}[/block]
+  ![How to access your Snowflake account URL](https://files.readme.io/9c0331c-Screenshot_2024-03-05_at_4.09.59_PM.png)
 - **Port**: Input as 443. It is the default port used for the Snowflake database. You can change it if required.
 - **Database, Schema, Warehouse, Username, Password, and Role**: All these have to be filled in accordance with the details used by you while running the code snippets in Part 1.
 

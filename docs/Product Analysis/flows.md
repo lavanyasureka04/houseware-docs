@@ -68,22 +68,9 @@ Here is the step-wise guide to help you create a Flow visualization on Houseware
 
 Once your Flow block is created, a config selection menu will open on the right-hand side. You can choose the following to generate the Flow as per your requirement.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9c4fc4f-image.png",
-        null,
-        "Flow configuration options"
-      ],
-      "align": "center",
-      "sizing": "450px",
-      "caption": "Flow configuration options"
-    }
-  ]
-}
-[/block]
+![Flow configuration options](https://files.readme.io/9c4fc4f-image.png)
+
+*Flow configuration options*
 
 
 1. **Events**: Select Events that you want to see in the Funnel sequence. Here you can select upto 2 events
@@ -99,7 +86,9 @@ Once your Flow block is created, a config selection menu will open on the right-
    5. **Rows** determine the number of most frequently performed events to be shown at each step. This defaults to 5, and can go upto 10(not counting Goal Events, Highlight Events, Other Events and Drop Off). Less common events performed by fewer users are combined into an "Other events" section. To view more events, simply increase the number of Rows to view.
    6. **Collapse Repeated Events** determines whether to collapse events that happen back to back into one event. This is useful when the user analysis requires clubbing repeated multiple events of the same type under one logical action and then analyse user steps or when there are issues with event instrumentation such that the same event is getting fired multiple times. By default, this is disabled.
 
-   [block:image]{"images":[{"image":["https://files.readme.io/ae895f2-Screenshot_2024-03-22_at_1.57.30_PM.png","","Option to collapse repeated events on Flows"],"align":"center","sizing":"700px","border":true,"caption":"Option to collapse repeated events on Flows"}]}[/block]
+   ![Option to collapse repeated events on Flows](https://files.readme.io/ae895f2-Screenshot_2024-03-22_at_1.57.30_PM.png)
+
+*Option to collapse repeated events on Flows*
 
 > 💡 Note:
 > 
@@ -111,22 +100,9 @@ Once your Flow block is created, a config selection menu will open on the right-
 3. **Filters**: 
    1. Users can analyze the Flows on cuts across event/user properties like country, locale, device type etc.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f39d2c5-image.png",
-        null,
-        "Dimension filters in Flows"
-      ],
-      "align": "center",
-      "sizing": "350px",
-      "caption": "Dimension filters in Flows"
-    }
-  ]
-}
-[/block]
+![Dimension filters in Flows](https://files.readme.io/f39d2c5-image.png)
+
+*Dimension filters in Flows*
 
 
 > 💡 Note:
@@ -149,23 +125,9 @@ Due to their exploratory analysis nature, Flows analyse a large number of events
 
 As a result, Houseware caches Flows results for a specific visualization upto a period of 7 days. The last time at which the Flows were calculated are shown at the top right of each Flows visualization & you can explicitly recompute Flows if need be by clicking on the refresh button next to it. 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/3199e3b-image.png",
-        null,
-        "Caching in Flows"
-      ],
-      "align": "center",
-      "sizing": "350px",
-      "border": true,
-      "caption": "Caching in Flows"
-    }
-  ]
-}
-[/block]
+![Caching in Flows](https://files.readme.io/3199e3b-image.png)
+
+*Caching in Flows*
 
 
 # 🤔 FAQs
@@ -178,23 +140,9 @@ In Flows, the conversion rate is calculated for each action taken between the An
 
 > 👀 **Note:** The anchor event helps in determining the total users (denominator to calculate % conversion) at each action event, before and after the anchor event. Example shown in the screenshot below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/30e1a28-Screenshot_2023-09-28_at_12.05.20_PM.png",
-        "",
-        "Join Plan Clicked: 40.16% = 21.8k/54.4k"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true,
-      "caption": "Join Plan Clicked: 40.16% = 21.8k/54.4k"
-    }
-  ]
-}
-[/block]
+![Join Plan Clicked: 40.16% = 21.8k/54.4k](https://files.readme.io/30e1a28-Screenshot_2023-09-28_at_12.05.20_PM.png)
+
+*Join Plan Clicked: 40.16% = 21.8k/54.4k*
 
 
 Hence, even though the number of users who did Join Plan Clicked might be more than 21.8K, for this flow, where the anchor event is `Signup Page` they will be calculated out of only the users who did Signup Page action.
@@ -221,20 +169,6 @@ The percentage and absolute numbers in brackets represent the **unique percentag
 
 As you set up your Flow visualization, you can make it more granular by increasing the number of events that occurred between the anchor and conversion event. You can do that **by increasing the number of rows** in the configuration, as shown in the GI below. The number of rows option determines the number of most frequent steps shown in the Flow. 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/a98736e-more_rows_inflows.gif",
-        "",
-        "How to make your Flow visualization more detailed"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "How to make your Flow visualization more detailed"
-    }
-  ]
-}
-[/block]
+![How to make your Flow visualization more detailed](https://files.readme.io/a98736e-more_rows_inflows.gif)
+
+*How to make your Flow visualization more detailed*

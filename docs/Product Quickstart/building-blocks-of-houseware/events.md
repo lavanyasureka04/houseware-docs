@@ -16,23 +16,9 @@ Once your [events data is connected with Houseware](https://docs.houseware.io/do
 
 Follow the steps given below to access events available on your Houseware instance.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/85ebf95-events_page.gif",
-        "",
-        "Houseware's Events Page"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Houseware's Events Page"
-    }
-  ]
-}
-[/block]
+![Houseware's Events Page](https://files.readme.io/85ebf95-events_page.gif)
+
+*Houseware's Events Page*
 
 
 ## Step 1: Go to the Events tab
@@ -43,23 +29,9 @@ On your Houseware instance, click on the Events tab on the left-hand navigation 
 
 On the event's page, against each event, there is an option to `View details`. Click on it to go deeper into the event details and properties.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ea32098-event_details.png",
-        "",
-        "'View detail' page for each Event"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "'View detail' page for each Event"
-    }
-  ]
-}
-[/block]
+!['View detail' page for each Event](https://files.readme.io/ea32098-event_details.png)
+
+*'View detail' page for each Event*
 
 
 All events that are present on this events page can be used to create powerful visualizations like flows, funnels, trends, retention charts, and many more.

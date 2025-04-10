@@ -58,20 +58,7 @@ Houseware has a unique opportunity to empower compound applications and help sha
 
 ***
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c0e9156-banner.png",
-        "",
-        ""
-      ],
-      "align": "center"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/c0e9156-banner.png)
 
 
 [block:html]

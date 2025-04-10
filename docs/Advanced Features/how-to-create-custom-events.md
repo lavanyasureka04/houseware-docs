@@ -34,23 +34,9 @@ Go to the Event page through the left-hand navigation bar.
 
 On the right-hand side of the search bar, select the + Custom Event button, which will navigate you to a new page to create a custom event.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6eaa2a9-Screenshot_2024-01-30_at_4.36.19_PM.png",
-        "",
-        "Click on **+ Custom Event** button"
-      ],
-      "align": "center",
-      "sizing": "800px",
-      "border": true,
-      "caption": "Click on **+ Custom Event** button"
-    }
-  ]
-}
-[/block]
+![Click on **+ Custom Event** button](https://files.readme.io/6eaa2a9-Screenshot_2024-01-30_at_4.36.19_PM.png)
+
+*Click on **+ Custom Event** button*
 
 
 ## Step 3: Select events and filters
@@ -59,64 +45,22 @@ After clicking the + custom event button on the events page, you will be redirec
 
 On this page, you can give your custom event a name and description and then select the events that you want to combine or filter to create your desired custom event.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/0339f92-Screenshot_2024-01-30_at_4.47.53_PM.png",
-        "",
-        "Select events and event or user properties"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select events and event or user properties"
-    }
-  ]
-}
-[/block]
+![Select events and event or user properties](https://files.readme.io/0339f92-Screenshot_2024-01-30_at_4.47.53_PM.png)
+
+*Select events and event or user properties*
 
 
 ## Step 4: Click Save
 
 Once you are happy with your events selected or filters on top of it, click on the 'Save' button. Your custom event will now show up under the Custom section on the Events page, as shown in the screenshot below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6a49cdf-Screenshot_2024-01-30_at_4.52.21_PM.png",
-        "",
-        "View Custom Events"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "View Custom Events"
-    }
-  ]
-}
-[/block]
+![View Custom Events](https://files.readme.io/6a49cdf-Screenshot_2024-01-30_at_4.52.21_PM.png)
+
+*View Custom Events*
 
 
 :tada: Your custom event will now be ready to be viewed under the 'Custom Events' tab on the right-hand side of the Events page. These events can be used for both Trends and Funnel types of visualizations.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/548bf82-Screenshot_2024-01-30_at_4.56.13_PM.png",
-        "",
-        "Use Custom Events in visualizations"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Use Custom Events in visualizations"
-    }
-  ]
-}
-[/block]
+![Use Custom Events in visualizations](https://files.readme.io/548bf82-Screenshot_2024-01-30_at_4.56.13_PM.png)
+
+*Use Custom Events in visualizations*

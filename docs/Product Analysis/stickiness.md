@@ -8,21 +8,9 @@ updatedAt: "Wed Nov 29 2023 08:28:13 GMT+0000 (Coordinated Universal Time)"
 ---
 Stickiness blocks measure the frequency with which users engage with your product within a specific time frame. They are essential for understanding user engagement in your product.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2728bbc-Stickiness_on_Houseware.gif",
-        null,
-        "Stickiness on Houseware"
-      ],
-      "align": "center",
-      "caption": "Stickiness on Houseware"
-    }
-  ]
-}
-[/block]
+![Stickiness on Houseware](https://files.readme.io/2728bbc-Stickiness_on_Houseware.gif)
+
+*Stickiness on Houseware*
 
 
 Stickiness is important because it indicates how often and consistently users engage with a product. High stickiness suggests strong user engagement, which is crucial to ensure that a product is providing value to its users.
@@ -35,21 +23,9 @@ This calculation shows you the percentage of users who did the event **at least 
 
 **For eg:** users in the `Day 3` bucket have triggered the event on exactly three days over the course of a week (or month) in the time frame of your analysis, while those in the `Day 4` bucket have done it for exactly four days in a week.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/cb38ae5-image.png",
-        null,
-        "Stickiness on Houseware"
-      ],
-      "align": "center",
-      "caption": "Stickiness on Houseware"
-    }
-  ]
-}
-[/block]
+![Stickiness on Houseware](https://files.readme.io/cb38ae5-image.png)
+
+*Stickiness on Houseware*
 
 
 ***
@@ -91,79 +67,28 @@ You can choose the time frame you want stickiness to be computed. Currently, onl
 
 Choose a start date and an end date. Stickiness will be calculated over events data **for the complete weeks or months in this date range** (as mentioned above).
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2551430-image.png",
-        null,
-        "Between Dates filter on Houseware"
-      ],
-      "align": "center",
-      "caption": "Between Dates filter on Houseware"
-    }
-  ]
-}
-[/block]
+![Between Dates filter on Houseware](https://files.readme.io/2551430-image.png)
+
+*Between Dates filter on Houseware*
 
 
 ## Add Filters
 
 You can use the configure menu for Stickiness blocks to add cohorts and user/event properties as filters.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/05ae702-image.png",
-        null,
-        "Add event property filters on Houseware"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "caption": "Add event property filters on Houseware"
-    }
-  ]
-}
-[/block]
+![Add event property filters on Houseware](https://files.readme.io/05ae702-image.png)
+
+*Add event property filters on Houseware*
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b6ca3b8-image.png",
-        null,
-        "Add user property filters on Houseware"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "caption": "Add user property filters on Houseware"
-    }
-  ]
-}
-[/block]
+![Add user property filters on Houseware](https://files.readme.io/b6ca3b8-image.png)
+
+*Add user property filters on Houseware*
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/cb53942-image.png",
-        null,
-        "Add cohort filters on Houseware"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "caption": "Add cohort filters on Houseware"
-    }
-  ]
-}
-[/block]
+![Add cohort filters on Houseware](https://files.readme.io/cb53942-image.png)
+
+*Add cohort filters on Houseware*
 
 
 ## Add Breakdown
@@ -175,21 +100,7 @@ Breakdowns enable you to go deeper and compare the drivers for certain user acti
 > 1. Houseware returns the top 8 dimension values based on the average number of users who did the event over the time frame of analysis. To restrict the breakdown to a specific set of dimension values, you can apply relevant filters on the visualisation for the same dimension.
 > 2. Currently, for user cohorts, Houseware only enables a **single cohort breakdown**. Eg.: if the cohort `Active Users` is added as a breakdown, you would see stickiness broken down for: `Users in Active Users cohort` and `Users not in Active Users cohort`.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4bee851-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "500px"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/4bee851-image.png)
 
 
 ***

@@ -24,22 +24,7 @@ By Composable- we mean that it can blend your product data with data from other 
 
 It is also super simple to get started and an out-of-the-box solution with minimum time spent integrating it with customers' data and making it go live for their organization.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/8118cad-image_16.png",
-        "",
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/8118cad-image_16.png)
 
 
 ***
@@ -84,23 +69,9 @@ Due to Houseware's warehouse-native architecture, customer data or data transfor
 
 <br />
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/5a4c8eb-HW_on_sw.png",
-        "",
-        "Houseware on Snowflake"
-      ],
-      "align": "center",
-      "sizing": "800px",
-      "border": true,
-      "caption": "Houseware on Snowflake"
-    }
-  ]
-}
-[/block]
+![Houseware on Snowflake](https://files.readme.io/5a4c8eb-HW_on_sw.png)
+
+*Houseware on Snowflake*
 
 
 If you are curious to know more about Houseware, watch [Houseware at Snowflake Summit 2023](https://youtu.be/z9_t1dnaO6E) 
@@ -109,20 +80,7 @@ If you are curious to know more about Houseware, watch [Houseware at Snowflake S
 
 ***
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c0e9156-banner.png",
-        "",
-        ""
-      ],
-      "align": "center"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/c0e9156-banner.png)
 
 
 [block:html]

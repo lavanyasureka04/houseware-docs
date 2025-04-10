@@ -81,46 +81,18 @@ ALTER SHARE identifier($share_name) ADD ACCOUNTS=XG59586;
 
 You will see the page below on logging in for the first time (before your instance setting up). Choose the "Use Snowflake Secure Data Sharing" option here.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/95fb03b-secure_data_share.png",
-        "",
-        "First landing page, Click on Use Snowflake Secure Data Sharing"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "First landing page, Click on Use Snowflake Secure Data Sharing"
-    }
-  ]
-}
-[/block]
+![First landing page, Click on Use Snowflake Secure Data Sharing](https://files.readme.io/95fb03b-secure_data_share.png)
+
+*First landing page, Click on Use Snowflake Secure Data Sharing*
 
 
 ## Step 5: Provide the details
 
 - Once you click on the Snowflake secure data share option, you will be redirected to the page shown below. The script given on the top of the page is the same as attached in the steps above in this document.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/bceac8e-Screenshot_2023-09-07_at_7.16.28_PM.png",
-        "",
-        "Snowflake Secure Data Share page"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Snowflake Secure Data Share page"
-    }
-  ]
-}
-[/block]
+![Snowflake Secure Data Share page](https://files.readme.io/bceac8e-Screenshot_2023-09-07_at_7.16.28_PM.png)
+
+*Snowflake Secure Data Share page*
 
 
 To find your Snowflake organization and Account name, refer to this Snowflake documentation: [Admin account identifier](https://docs.snowflake.com/en/user-guide/admin-account-identifier#finding-the-organization-and-account-name-for-an-account)

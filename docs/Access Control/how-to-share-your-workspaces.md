@@ -48,23 +48,9 @@ The following table shows you the kind of access each type mentioned above has:
 
 You can find this button in the top right in any Workspace.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4a5729a-image.png",
-        null,
-        "Click on Share in the top right"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Click on Share in the top right"
-    }
-  ]
-}
-[/block]
+![Click on Share in the top right](https://files.readme.io/4a5729a-image.png)
+
+*Click on Share in the top right*
 
 
 ### Step 2: Configure access
@@ -73,23 +59,9 @@ The window below pops up after clicking on the "Share button".
 
 The access shown here is what is the default before you configure.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c2743d1-image.png",
-        null,
-        "Default Configuration"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Default Configuration"
-    }
-  ]
-}
-[/block]
+![Default Configuration](https://files.readme.io/c2743d1-image.png)
+
+*Default Configuration*
 
 
 > 👀 **Note:**You can grant access in 2 ways — General access, Adding particular people.
@@ -98,46 +70,18 @@ The access shown here is what is the default before you configure.
 
 In general access, you can update all the users in your organization as Viewers, Editors, or Restricted. Click on the drop-down next to the org to change access.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/0254b68-org_gif.gif",
-        "",
-        "Configuring General Access"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Configuring General Access"
-    }
-  ]
-}
-[/block]
+![Configuring General Access](https://files.readme.io/0254b68-org_gif.gif)
+
+*Configuring General Access*
 
 
 #### Adding people
 
 To add people, enter their email ID of then click on the "Invite" button. They are by default added as "Viewers". You can update it to "Editor" if you want, as can be seen below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/66237b8-image_26.gif",
-        "",
-        "Adding people"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Adding people"
-    }
-  ]
-}
-[/block]
+![Adding people](https://files.readme.io/66237b8-image_26.gif)
+
+*Adding people*
 
 
 > 👀 **Note:**In the case of Workspaces inside Workspaces, if the person does not have access to the parent Workspace, they can reach the nested Workspace through the "Shared Workspaces" section on the Workspaces page.
@@ -146,23 +90,9 @@ To add people, enter their email ID of then click on the "Invite" button. They a
 
 Remove people by clicking on the delete icon next to the access given to them.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/a2165b1-image.png",
-        null,
-        "Removing people"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Removing people"
-    }
-  ]
-}
-[/block]
+![Removing people](https://files.readme.io/a2165b1-image.png)
+
+*Removing people*
 
 
 Onto easier collaboration! 💪

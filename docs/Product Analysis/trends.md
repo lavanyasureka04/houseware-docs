@@ -8,23 +8,9 @@ updatedAt: "Thu Jun 13 2024 07:35:50 GMT+0000 (Coordinated Universal Time)"
 ---
 The Trends type of visualization is the best way to analyze metrics and compositions within your event data using line charts or table views. Advanced features like formulas are useful for comparing and customizing metrics on the event data. Houseware lets you create these Trends in just a matter of a few clicks. 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ef3efd8-image.png",
-        null,
-        "Trends on Houseware"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Trends on Houseware"
-    }
-  ]
-}
-[/block]
+![Trends on Houseware](https://files.readme.io/ef3efd8-image.png)
+
+*Trends on Houseware*
 
 
 ## What is a Trend?
@@ -54,23 +40,9 @@ Add a new visualization block on your workspace and choose **Trends** as the vis
 
 Select the event(s) you want to visualize in the config menu on the right side. You can add up to 8 events.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/675798c-image.png",
-        null,
-        "Select event(s) "
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select event(s) "
-    }
-  ]
-}
-[/block]
+![Select event(s) ](https://files.readme.io/675798c-image.png)
+
+*Select event(s) *
 
 
 > 👀 **Note: ** By default the "Calculation" (counting criteria) field, when you choose any event, is "Uniques". Head to the Advanced config section to learn more about this, and the other options available here.
@@ -113,23 +85,9 @@ Houseware supports the following operators:
 - Divide /
 - Use parentheses to influence the order of operations ()
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/5bac3ef-image.png",
-        null,
-        "Adding formulas"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Adding formulas"
-    }
-  ]
-}
-[/block]
+![Adding formulas](https://files.readme.io/5bac3ef-image.png)
+
+*Adding formulas*
 
 
 1. **Formula name:** Enter a name/alias for the formula.
@@ -161,23 +119,9 @@ You can view the Trend chart in two primary ways:
    1. period-on-period counts (Daily/ Weekly/ Monthly) 
    2. aggregated counts (All time) over the selected date range.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c7ee79f-image.png",
-        null,
-        "Select the time granularity to see daily, weekly, monthly or all time"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select the time granularity to see daily, weekly, monthly or all time"
-    }
-  ]
-}
-[/block]
+![Select the time granularity to see daily, weekly, monthly or all time](https://files.readme.io/c7ee79f-image.png)
+
+*Select the time granularity to see daily, weekly, monthly or all time*
 
 
 Both the views can be configured to be viewed at any time granularity - day, week, month, or all time. 
@@ -186,23 +130,9 @@ Both the views can be configured to be viewed at any time granularity - day, wee
 
 Breakdown segments data into groups. Breakdown enables you to go deeper and understand and compare the drivers for event metrics, across common event-wide dimensions such as country, device_type, etc., or even specific event properties.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/a9700ca-image_27.gif",
-        "",
-        "Breakdown on Trend chart"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Breakdown on Trend chart"
-    }
-  ]
-}
-[/block]
+![Breakdown on Trend chart](https://files.readme.io/a9700ca-image_27.gif)
+
+*Breakdown on Trend chart*
 
 
 Trends allow you to breakdown by all properties associated with the events chosen for the chart. 
@@ -242,23 +172,9 @@ In the previous example, you can add a `Sort By  A: HomePage (Uniques)  Descendi
 
 In addition to the event-level filters, you can apply filters for the entire Trends block, common across all events. Filter each step based on dimensions like country, device_type, slot, experiment, etc., and even cohorts.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/3c52cc4-image.png",
-        null,
-        "Apply filters on Trends"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Apply filters on Trends"
-    }
-  ]
-}
-[/block]
+![Apply filters on Trends](https://files.readme.io/3c52cc4-image.png)
+
+*Apply filters on Trends*
 
 
 > ✨ **Feature Highlight**: You can use in-built Houseware properties to filter your users.
@@ -278,43 +194,15 @@ There are multiple ways to select the time:
 
 Choose a start date and an end date (both inclusive). Trend will be calculated over events data in this date range
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/8b0b063-retention_7.png",
-        "",
-        "Between dates filter"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Between dates filter"
-    }
-  ]
-}
-[/block]
+![Between dates filter](https://files.readme.io/8b0b063-retention_7.png)
+
+*Between dates filter*
 
 
 ### Within the Last n Days
 
 Calculate retention for the last 3/7/14/28 days. Last n days is a rolling date window to keep your retention up to date
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4f9648b-retention_6.png",
-        "",
-        "Within Last n Days filter option"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Within the Last n Days filter option"
-    }
-  ]
-}
-[/block]
+![Within Last n Days filter option](https://files.readme.io/4f9648b-retention_6.png)
+
+*Within the Last n Days filter option*

@@ -12,23 +12,11 @@ Houseware's no-code, interactive product analytics capabilities empower the user
 
 The funnel type of visualization is the best way to understand how the end-users perform events in a series, and how many users dropped in between different steps. Houseware lets you create these funnels in just a matter of a few clicks. 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/df41e35-Screenshot_2023-07-17_at_5.02.26_PM.png",
-        "",
-        "Houseware 3-step funnel\n\n"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Houseware 3-step funnel"
-    }
-  ]
-}
-[/block]
+![Houseware 3-step funnel
+
+](https://files.readme.io/df41e35-Screenshot_2023-07-17_at_5.02.26_PM.png)
+
+*Houseware 3-step funnel*
 
 
 ***
@@ -82,23 +70,9 @@ Here is the step-wise guide to help you create a Funnel visualization on Housewa
 
 Once your Funnel block is created, a config selection menu will open on the right-hand side. You can choose the following to generate the Funnel as per your requirement.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9860c5b-funnel_2.png",
-        "",
-        "Funnel configuration options"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Funnel configuration options"
-    }
-  ]
-}
-[/block]
+![Funnel configuration options](https://files.readme.io/9860c5b-funnel_2.png)
+
+*Funnel configuration options*
 
 
 1. **Events**: Select Events that you want to see in the Funnel sequence.
@@ -124,23 +98,9 @@ Once you have selected your config options, click on the `Save Configuration` bu
 
 Select the events of the Funnel in the order you require. You can have up to 5 steps in each Funnel.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c434f2b-funnel_3.png",
-        "",
-        "Select Funnel events"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select Funnel events"
-    }
-  ]
-}
-[/block]
+![Select Funnel events](https://files.readme.io/c434f2b-funnel_3.png)
+
+*Select Funnel events*
 
 
 Use the "x" icon to remove an event. You can even change the order by clicking on the six dots to the left of the event and dragging it.
@@ -149,46 +109,18 @@ Use the "x" icon to remove an event. You can even change the order by clicking o
 > 
 > You can also apply a filter at an event level! Based on the various event and user properties associated with the event, by clicking on the filter icon next to each event on the right, as shown in the gif below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6f26c1f-funnel_5.gif",
-        "",
-        "Apply event level filter"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Apply event level filter"
-    }
-  ]
-}
-[/block]
+![Apply event level filter](https://files.readme.io/6f26c1f-funnel_5.gif)
+
+*Apply event level filter*
 
 
 > 👀 First Time Filter
 > 
 > Apply first-time filters on specific events to filter your analysis to see the very first instance of users doing the event(s) — across their entire lifetime. Use this filter to study early user behavior. This filter can be found by clicking no on the 3 dots next to "x" icon, as shown below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/a219149-funnel_6.png",
-        "",
-        "Apply first time filter"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Apply first time filter"
-    }
-  ]
-}
-[/block]
+![Apply first time filter](https://files.readme.io/a219149-funnel_6.png)
+
+*Apply first time filter*
 
 
 ## Conversion Criteria
@@ -197,23 +129,9 @@ Use the "x" icon to remove an event. You can even change the order by clicking o
 
 Counting criteria determines how many times Houseware counts a particular user's activity towards conversions. Funnels can be calculated by Uniques and Totals. Funnels are calculated by Uniques by default, criteria can be changed by using the apt option from the dropdown.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6895a30-funnel_7.png",
-        "",
-        "Select Uniques or Totals"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select Uniques or Totals"
-    }
-  ]
-}
-[/block]
+![Select Uniques or Totals](https://files.readme.io/6895a30-funnel_7.png)
+
+*Select Uniques or Totals*
 
 
 **Uniques**  
@@ -226,23 +144,9 @@ The Totals option accounts for all the number of times users converted through t
 
 The Conversion Window determines how much time a user has to convert through all steps of the funnel after entering it. The conversion window setting is ideal for use cases where you want more control when measuring conversions with a time duration goal.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9820b20-image_17.png",
-        "",
-        "Select a conversion window"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Select a conversion window"
-    }
-  ]
-}
-[/block]
+![Select a conversion window](https://files.readme.io/9820b20-image_17.png)
+
+*Select a conversion window*
 
 
 > 👀 Note:
@@ -267,23 +171,9 @@ By default, Houseware displays the time to conversion through the entire funnel 
 
 By default, the interval for this chart is 2 minutes, but you can click on Interval size at the top of the chart to edit this. You can also specify the Min and Max for Time to Convert.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/bd32088-TimeToConvert.gif",
-        "",
-        "Time to Conver Funnel view"
-      ],
-      "align": "center",
-      "sizing": "300px",
-      "border": true,
-      "caption": "Time to Conver Funnel view"
-    }
-  ]
-}
-[/block]
+![Time to Conver Funnel view](https://files.readme.io/bd32088-TimeToConvert.gif)
+
+*Time to Conver Funnel view*
 
 
 > 👀 **Note:** To know more about how time intervals are calculated, read more here in the [FAQ section](https://docs.houseware.io/docs/funnels#how-are-the-time-intervals-calculated-in-the-time-to-convert-view).
@@ -292,23 +182,9 @@ By default, the interval for this chart is 2 minutes, but you can click on Inter
 
 To understand the conversion trend over a period of time, the Funnel Trends view can be used. It shows the percentage converted, between all steps of steps selected by the user across time. It can be viewed at an hourly, daily, weekly, monthly, or yearly time granularity.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/628f27c-Screenshot_2024-01-30_at_3.54.47_PM.png",
-        "",
-        "Funnel Trends View"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Funnel Trends View"
-    }
-  ]
-}
-[/block]
+![Funnel Trends View](https://files.readme.io/628f27c-Screenshot_2024-01-30_at_3.54.47_PM.png)
+
+*Funnel Trends View*
 
 
 This view is very useful if you want to check if your conversion for the funnel is increasing, decreasing, or not changing over a period of time. Because the Funnel Steps view only shows the funnel conversion snapshot for the time range selected.
@@ -317,23 +193,9 @@ A user that completed the funnel within the conversion window is counted on the 
 
 Houseware allows for an easy toggle option to switch from a steps view to a trends view, as shown in the screenshot below.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/dbd2b89-Screenshot_2024-01-30_at_3.43.43_PM.png",
-        "",
-        "Drop down on top of the viz to select the type of Funnel view"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true,
-      "caption": "Drop down on top of the viz to select the type of Funnel view"
-    }
-  ]
-}
-[/block]
+![Drop down on top of the viz to select the type of Funnel view](https://files.readme.io/dbd2b89-Screenshot_2024-01-30_at_3.43.43_PM.png)
+
+*Drop down on top of the viz to select the type of Funnel view*
 
 
 ## Breakdown
@@ -359,23 +221,9 @@ Funnels allow you to break down by event properties of the first event in your c
 
 Below you have a funnel broken down by the `source` event property.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9edda53-funnel_breakdown.png",
-        "",
-        "Funnel breakdown"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Funnel breakdown"
-    }
-  ]
-}
-[/block]
+![Funnel breakdown](https://files.readme.io/9edda53-funnel_breakdown.png)
+
+*Funnel breakdown*
 
 
 ### User Properties (Common)
@@ -384,23 +232,9 @@ Funnels also allow you to break down events by user properties. Since a Funnel i
 
 Below you have a funnel broken down by the `city` user property.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/427cd73-funnel_bk_2.png",
-        "",
-        "Funnel breakdown by a common user property"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Funnel breakdown by a common user property"
-    }
-  ]
-}
-[/block]
+![Funnel breakdown by a common user property](https://files.readme.io/427cd73-funnel_bk_2.png)
+
+*Funnel breakdown by a common user property*
 
 
 ### Cohorts
@@ -409,23 +243,9 @@ You can even breakdown a funnel by a Cohort — letting you compare how users wh
 
 Below you have a funnel with a breakdown applied by the cohort `Active California users`. To know how to make cohorts, refer to the article: here!
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e47d0be-funnel_cohors.png",
-        "",
-        "Funnel breakdown by cohorts"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Funnel breakdown by cohorts"
-    }
-  ]
-}
-[/block]
+![Funnel breakdown by cohorts](https://files.readme.io/e47d0be-funnel_cohors.png)
+
+*Funnel breakdown by cohorts*
 
 
 ## Funnel Filters
@@ -434,23 +254,9 @@ You can filter the funnel by user properties, event properties, and cohorts, sim
 
 All the filters that you see in the screenshot below will populate based on the event properties available in your data, and are not static.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e7e9fca-filter_funnel.png",
-        "",
-        "Funnel Filter options"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Funnel Filter options"
-    }
-  ]
-}
-[/block]
+![Funnel Filter options](https://files.readme.io/e7e9fca-filter_funnel.png)
+
+*Funnel Filter options*
 
 
 ## Time Range
@@ -511,22 +317,7 @@ For example, imagine a 3-step funnel: A, B, and C. User 1 does A -> A-> B-> C. I
 
 ## When I apply breakdown to a Funnel, it sometimes shows (null) in the legend; why?
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f311394-Screenshot_2023-09-25_at_5.31.17_PM.png",
-        "",
-        ""
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/f311394-Screenshot_2023-09-25_at_5.31.17_PM.png)
 
 
 This happens when the events selected in the Funnel do not have the user property associated with them. 

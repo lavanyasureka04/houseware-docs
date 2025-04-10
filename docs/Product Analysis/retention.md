@@ -8,23 +8,9 @@ updatedAt: "Thu Jun 13 2024 07:35:56 GMT+0000 (Coordinated Universal Time)"
 ---
 Retention measures how many users return to your product over time. Without retention, a product is a leaky bucket; you can pour in as many dollars as you like into marketing, advertising, and other means of user acquisition and still wind up with no long-term users—which means no sustainable growth and no means to generate revenue.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/adbb47b-retention_hw_gif.gif",
-        "",
-        "Retention on Houseware"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Retention on Houseware"
-    }
-  ]
-}
-[/block]
+![Retention on Houseware](https://files.readme.io/adbb47b-retention_hw_gif.gif)
+
+*Retention on Houseware*
 
 
 ### Use retention heatmap and curve to discover:
@@ -61,46 +47,18 @@ In the config menu on the right side, select the starting event. The starting ev
 
 For example, if sign-up is the starting event, then the total number of users for each cohort will be the total number of users who signed up for the product in a given cohort period.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e38fa7d-retention.png",
-        "",
-        "Select starting event"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Select starting event"
-    }
-  ]
-}
-[/block]
+![Select starting event](https://files.readme.io/e38fa7d-retention.png)
+
+*Select starting event*
 
 
 ## Step 3: Select Return Event
 
 Return event is the event you want your user to return to measure retention. It can be any generic event to measure overall product retention rather than specific feature retention.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/889c5b9-retention_1.png",
-        "",
-        "Select return event"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Select return event"
-    }
-  ]
-}
-[/block]
+![Select return event](https://files.readme.io/889c5b9-retention_1.png)
+
+*Select return event*
 
 
 > 👀 **Note**:
@@ -118,23 +76,9 @@ Here are some more features like filters, breakdowns, change retention views, et
 
 ## Choose Retention View
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6d84304-retention_2.png",
-        "",
-        "Select retention view"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Select retention view"
-    }
-  ]
-}
-[/block]
+![Select retention view](https://files.readme.io/6d84304-retention_2.png)
+
+*Select retention view*
 
 
 You can view the retention chart in two primary ways:
@@ -149,23 +93,9 @@ It shows the weighted average of all the cohorts for each relative product usage
 
 > ✨ **Feature Highlight**: The retention curve view is handy to check whether the retention curve is flattening. If it is, then it quickly helps in identify at what retention percentage?
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6392410-retention_4.png",
-        "",
-        "Select the time granularity to see daily, weekly, or monthly retention"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Select the time granularity to see daily, weekly, or monthly retention"
-    }
-  ]
-}
-[/block]
+![Select the time granularity to see daily, weekly, or monthly retention](https://files.readme.io/6392410-retention_4.png)
+
+*Select the time granularity to see daily, weekly, or monthly retention*
 
 
 Both the view can be configured to be viewed at any time granularity - day, week, or month. **On Each Calendar ** drop-down menu helps you select the same.
@@ -174,23 +104,9 @@ Both the view can be configured to be viewed at any time granularity - day, week
 
 In addition to the event-specific filters shared in the note above, you can apply filters for the entire Retention block, common across the starting and return events. Filter them based on user or event properties like country, device type, slot, experiment, etc.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/c0ffc0e-retention_5.png",
-        "",
-        "Apply filters on the Retention chart"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true,
-      "caption": "Apply filters on the Retention chart"
-    }
-  ]
-}
-[/block]
+![Apply filters on the Retention chart](https://files.readme.io/c0ffc0e-retention_5.png)
+
+*Apply filters on the Retention chart*
 
 
 > ✨ **Feature Highlight**: You can use in-built Houseware properties to filter your users.
@@ -210,46 +126,18 @@ There are multiple ways to select the time:
 
 Choose a start date and an end date (both inclusive). Retention will be calculated over events data in this date range
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/8b0b063-retention_7.png",
-        "",
-        "Between dates filter"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Between dates filter"
-    }
-  ]
-}
-[/block]
+![Between dates filter](https://files.readme.io/8b0b063-retention_7.png)
+
+*Between dates filter*
 
 
 ### Within the Last n Days
 
 Calculate retention for the last 3/7/14/28 days. Last n days is a rolling date window to keep your retention up to date
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4f9648b-retention_6.png",
-        "",
-        "Within Last n Days filter option"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Within Last n Days filter option"
-    }
-  ]
-}
-[/block]
+![Within Last n Days filter option](https://files.readme.io/4f9648b-retention_6.png)
+
+*Within Last n Days filter option*
 
 
 ## Add Breakdown
@@ -260,63 +148,21 @@ We return the top 8 dimension values based on the average retention over all day
 
 The retention visualization can be broken down by the event properties of the starting event as configured in Step #2.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/567f029-retention_9.png",
-        "",
-        "Add breakdown to group data on your viz"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Add breakdown to group data on your viz"
-    }
-  ]
-}
-[/block]
+![Add breakdown to group data on your viz](https://files.readme.io/567f029-retention_9.png)
+
+*Add breakdown to group data on your viz*
 
 
 This breakdown can be applied to heatmap as a drop-down filter. The curve view splits into multiple curves based on breakdown segment values.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/3eedced-image_18.png",
-        "",
-        "Breakdown on a heatmap view"
-      ],
-      "align": "center",
-      "sizing": "500px",
-      "border": true,
-      "caption": "Breakdown on a heatmap view"
-    }
-  ]
-}
-[/block]
+![Breakdown on a heatmap view](https://files.readme.io/3eedced-image_18.png)
+
+*Breakdown on a heatmap view*
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/6e4853d-breakdown_curve.png",
-        "",
-        "Breakdown on a curve view"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Breakdown on a curve view"
-    }
-  ]
-}
-[/block]
+![Breakdown on a curve view](https://files.readme.io/6e4853d-breakdown_curve.png)
+
+*Breakdown on a curve view*
 
 
 ***
@@ -331,23 +177,9 @@ When measuring N-Day Retention, Day 0 typically refers to the day on which a new
 
 For example, in the screenshot shown below, W1 retention for the 4th September cohort is 84.43% which is calculated by dividing users who came back on W1: 461, with total users who signed up on week 0: 546.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/86ed566-Screenshot_2023-10-05_at_12.50.28_PM.png",
-        "",
-        "Retention Heatmap on Houseware"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Retention Heatmap on Houseware"
-    }
-  ]
-}
-[/block]
+![Retention Heatmap on Houseware](https://files.readme.io/86ed566-Screenshot_2023-10-05_at_12.50.28_PM.png)
+
+*Retention Heatmap on Houseware*
 
 
 ## How does Houseware determine 'Day 1' and 'Week 1' retention?  Is it based on specific calendar dates or rolling time intervals?
@@ -374,20 +206,6 @@ Absolutely yes! In Houseware, you can define custom time intervals to measure re
 
 For example, if your product offers free trials for a time duration like 14 days, or 75 days you will like to measure retention at 14 days or 75-day intervals. This will help in understanding the number of users who came to use the product during the trial period and post the trial period once it was over. 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/a4438cf-Screenshot_2023-10-05_at_5.01.21_PM.png",
-        "",
-        "Custom time brackets for retention heatmap"
-      ],
-      "align": "center",
-      "sizing": "600px",
-      "border": true,
-      "caption": "Custom time buckets for retention heatmap"
-    }
-  ]
-}
-[/block]
+![Custom time brackets for retention heatmap](https://files.readme.io/a4438cf-Screenshot_2023-10-05_at_5.01.21_PM.png)
+
+*Custom time buckets for retention heatmap*

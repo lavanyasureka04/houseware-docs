@@ -26,21 +26,7 @@ Houseware has adopted global industry standards to ensure a high bar of consumer
 
 ## SOC 2 Type 2 Certification
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/0873ab6-socII_image.jpeg",
-        "",
-        ""
-      ],
-      "align": "center",
-      "sizing": "146px"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/0873ab6-socII_image.jpeg)
 
 
 Houseware undergoes an annual SOC2 (Service Organization Control 2) Type 2 review by a qualified auditor, covering all the trust principles (Security, Confidentiality, and Availability) that apply to our operations. It ensures all our practices across different aspects of the business maintain the security and confidentiality of customer data. 

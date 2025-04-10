@@ -18,44 +18,16 @@ This step-by-step guide will help you set up + connect a new BigQuery warehouse 
 
 - You will see the page below on logging in for the first time (before setting up). Choose the "Plug Houseware to work on your Cloud data warehouse" option here.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b73d134-image.png",
-        null,
-        "First landing page, click on the \"Connect warehouse\" button"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "First landing page, click on the \"Connect warehouse\" button"
-    }
-  ]
-}
-[/block]
+![First landing page, click on the "Connect warehouse" button](https://files.readme.io/b73d134-image.png)
+
+*First landing page, click on the "Connect warehouse" button*
 
 
 - Next, select BigQuery as the data warehouse you want to connect on reaching the following page.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/77e84d7-image.png",
-        null,
-        "Choose your Cloud Data Warehouse"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Choose your Cloud Data Warehouse"
-    }
-  ]
-}
-[/block]
+![Choose your Cloud Data Warehouse](https://files.readme.io/77e84d7-image.png)
+
+*Choose your Cloud Data Warehouse*
 
 
 > 🚧 To note before connecting
@@ -75,23 +47,9 @@ Now with the necessary permissions, we can move on to **creating a warehouse con
 
 For Houseware to interact with the service account of your google cloud project, it needs to connect securely with the account's service identity. This is done by creating a **private service account key in .JSON format**, which is to be uploaded on the Houseware app.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e97dd21-image.png",
-        null,
-        "An example .JSON key file is attached here"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "An example .JSON key file is attached here"
-    }
-  ]
-}
-[/block]
+![An example .JSON key file is attached here](https://files.readme.io/e97dd21-image.png)
+
+*An example .JSON key file is attached here*
 
 
 ### How to get this key?
@@ -99,82 +57,22 @@ For Houseware to interact with the service account of your google cloud project,
 1. Go to your [google cloud console](https://console.cloud.google.com/welcome?pli=1&project=quizizzer)
 2. Select your **organization** and **project** from the top left
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4439de1-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/4439de1-image.png)
 
 
 3. Go to the navigation menu and go to **Service accounts**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f4fb117-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/f4fb117-image.png)
 
 
 4. In the service accounts section, **choose the service accoun**t for which they key needs to be generated and click on **manage keys**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/bb7da26-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/bb7da26-image.png)
 
 
 5. Click on** create a new key**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/39790ae-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/39790ae-image.png)
 
 
 6. Create a **JSON keyfile**, and **upload it on Houseware** app
@@ -195,125 +93,36 @@ The next step is to ingest a **GCP bucket** to ingest data from Fivetran (our da
 
 1. Click on the top-left menu and go to the **Cloud Storage** section
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/d370c47-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/d370c47-image.png)
 
 
 2. Go to your bucket and open settings, click on **edit access**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/d2d1604-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/d2d1604-image.png)
 
 
 3. Make sure the access control setting is configured to** fine-grained**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/770f512-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/770f512-image.png)
 
 
 4. We need to set up **Storage Object Admin** for the bucket now, click on **add principal**
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/75ff127-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/75ff127-image.png)
 
 
 5. Here select the** role of the principal** as Storage Object Admin. Go to Cloud Storage -> Storage Object
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/bdacf55-image.png",
-        null,
-        ""
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/bdacf55-image.png)
 
 
 Enter the bucket name on Houseware!
 
 ### Step 4:  Name the schema on which you want Houseware to materialize the transformed tables and metrics
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/12f9b6f-image.png",
-        null,
-        "Name the schema"
-      ],
-      "align": "center",
-      "sizing": "700px",
-      "border": true,
-      "caption": "Name the schema"
-    }
-  ]
-}
-[/block]
+![Name the schema](https://files.readme.io/12f9b6f-image.png)
+
+*Name the schema*
 
 
 Click on the Connect button to complete the connection. 
