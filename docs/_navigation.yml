@@ -1,0 +1,24 @@
+- title: Overview
+  url: /docs/Overview/what-is-houseware-1.md
+
+- title: Product Quickstart
+  url: /docs/Product Quickstart/building-blocks-of-houseware.md
+
+- title: Product Analysis
+  url: /docs/Product Analysis/trends.md
+
+- title: Access Control
+  url: /docs/Access Control/how-to-share-your-workspaces.md
+
+- title: Advanced Features
+  url: /docs/Advanced Features/how-to-create-custom-events.md
+
+- title: Connectivity Guides
+  url: /docs/Connectivity Guides/how-to-connect-to-snowflake.md
+
+- title: Event Instrumentation Guides
+  url: /docs/Event Instrumentation Guides/events-naming-conventions.md
+
+- title: FAQs
+  url: /docs/FAQs/houseware-vs-amplitude-vs-mixpanel.md
+
