@@ -1,94 +1,94 @@
 - title: Overview
   children:
-  - title: Collaboration
-    url: /docs/Overview/collaboration.md
-  - title: Houseware Platform
-    url: /docs/Overview/houseware-platform.md
-  - title: The Warehouse Native Way For Product Analytics
-    url: /docs/Overview/the-warehouse-native-way-for-product-analytics.md
-  - title: What Is Houseware 1
-    url: /docs/Overview/what-is-houseware-1.md
+    - title: Collaboration
+      url: /docs/Overview/collaboration.md
+    - title: Houseware Platform
+      url: /docs/Overview/houseware-platform.md
+    - title: The Warehouse Native Way For Product Analytics
+      url: /docs/Overview/the-warehouse-native-way-for-product-analytics.md
+    - title: What Is Houseware 1
+      url: /docs/Overview/what-is-houseware-1.md
 - title: Access Control
   children:
-  - title: How To Enable Okta Sso
-    url: /docs/Access Control/how-to-enable-okta-sso.md
-  - title: How To Share Your Workspaces
-    url: /docs/Access Control/how-to-share-your-workspaces.md
+    - title: How To Enable Okta Sso
+      url: /docs/Access Control/how-to-enable-okta-sso.md
+    - title: How To Share Your Workspaces
+      url: /docs/Access Control/how-to-share-your-workspaces.md
 - title: Advanced Features
   children:
-  - title: How To Create Custom Events
-    url: /docs/Advanced Features/how-to-create-custom-events.md
-  - title: How To Use Command K
-    url: /docs/Advanced Features/how-to-use-command-k.md
-  - title: Snowflake Consumption Control Best Practices
-    url: /docs/Advanced Features/snowflake-consumption-control-best-practices.md
+    - title: How To Create Custom Events
+      url: /docs/Advanced Features/how-to-create-custom-events.md
+    - title: How To Use Command K
+      url: /docs/Advanced Features/how-to-use-command-k.md
+    - title: Snowflake Consumption Control Best Practices
+      url: /docs/Advanced Features/snowflake-consumption-control-best-practices.md
 - title: Connectivity Guides
   children:
-  - title: Best Practices To Update Etl Pipelines
-    url: /docs/Connectivity Guides/best-practices-to-update-etl-pipelines.md
-  - title: How To Connect To Bigquery Old
-    url: /docs/Connectivity Guides/how-to-connect-to-bigquery-old.md
-  - title: How To Connect To Bigquery
-    url: /docs/Connectivity Guides/how-to-connect-to-bigquery.md
-  - title: How To Connect To Snowflake
-    url: /docs/Connectivity Guides/how-to-connect-to-snowflake.md
-  - title: How To Setup Houseware Copy
-    url: /docs/Connectivity Guides/how-to-setup-houseware-copy.md
-  - title: How To Setup Houseware
-    url: /docs/Connectivity Guides/how-to-setup-houseware.md
-  - title: Optimizely Data Setup On Houseware 213Bj1Bkjjn2K3
-    url: /docs/Connectivity Guides/optimizely-data-setup-on-houseware-213bj1bkjjn2k3.md
-  - title: Secure Data Share
-    url: /docs/Connectivity Guides/secure-data-share.md
+    - title: Best Practices To Update Etl Pipelines
+      url: /docs/Connectivity Guides/best-practices-to-update-etl-pipelines.md
+    - title: How To Connect To Bigquery Old
+      url: /docs/Connectivity Guides/how-to-connect-to-bigquery-old.md
+    - title: How To Connect To Bigquery
+      url: /docs/Connectivity Guides/how-to-connect-to-bigquery.md
+    - title: How To Connect To Snowflake
+      url: /docs/Connectivity Guides/how-to-connect-to-snowflake.md
+    - title: How To Setup Houseware Copy
+      url: /docs/Connectivity Guides/how-to-setup-houseware-copy.md
+    - title: How To Setup Houseware
+      url: /docs/Connectivity Guides/how-to-setup-houseware.md
+    - title: Optimizely Data Setup On Houseware 213Bj1Bkjjn2K3
+      url: /docs/Connectivity Guides/optimizely-data-setup-on-houseware-213bj1bkjjn2k3.md
+    - title: Secure Data Share
+      url: /docs/Connectivity Guides/secure-data-share.md
 - title: Event Instrumentation Guides
   children:
-  - title: Events Naming Conventions
-    url: /docs/Event Instrumentation Guides/events-naming-conventions.md
+    - title: Events Naming Conventions
+      url: /docs/Event Instrumentation Guides/events-naming-conventions.md
 - title: FAQs
   children:
-  - title: Houseware Vs Amplitude Vs Mixpanel
-    url: /docs/FAQs/houseware-vs-amplitude-vs-mixpanel.md
+    - title: Houseware Vs Amplitude Vs Mixpanel
+      url: /docs/FAQs/houseware-vs-amplitude-vs-mixpanel.md
 - title: Product Analysis
   children:
-  - title: Cohorts
-    url: /docs/Product Analysis/cohorts.md
-  - title: Flows
-    url: /docs/Product Analysis/flows.md
-  - title: Funnels
-    url: /docs/Product Analysis/funnels.md
-  - title: How Are Funnels Calculated
-    url: /docs/Product Analysis/funnels/how-are-funnels-calculated.md
-  - title: Retention
-    url: /docs/Product Analysis/retention.md
-  - title: Stickiness
-    url: /docs/Product Analysis/stickiness.md
-  - title: Trends
-    url: /docs/Product Analysis/trends.md
+    - title: Cohorts
+      url: /docs/Product Analysis/cohorts.md
+    - title: Flows
+      url: /docs/Product Analysis/flows.md
+    - title: Funnels
+      url: /docs/Product Analysis/funnels.md
+    - title: How Are Funnels Calculated
+      url: /docs/Product Analysis/funnels/how-are-funnels-calculated.md
+    - title: Retention
+      url: /docs/Product Analysis/retention.md
+    - title: Stickiness
+      url: /docs/Product Analysis/stickiness.md
+    - title: Trends
+      url: /docs/Product Analysis/trends.md
 - title: Product Quickstart
   children:
-  - title: Building Blocks Of Houseware
-    url: /docs/Product Quickstart/building-blocks-of-houseware.md
-  - title: Entities
-    url: /docs/Product Quickstart/building-blocks-of-houseware/entities.md
-  - title: Events
-    url: /docs/Product Quickstart/building-blocks-of-houseware/events.md
-  - title: User Cohorts
-    url: /docs/Product Quickstart/building-blocks-of-houseware/user-cohorts.md
-  - title: Users
-    url: /docs/Product Quickstart/building-blocks-of-houseware/users.md
-  - title: Houseware Onboarding Guide
-    url: /docs/Product Quickstart/houseware-onboarding-guide.md
-  - title: How To Create Your Workspace
-    url: /docs/Product Quickstart/how-to-create-your-workspace.md
-  - title: Quick Start For Admins
-    url: /docs/Product Quickstart/quick-start-for-admins.md
-  - title: Quick Start For Users
-    url: /docs/Product Quickstart/quick-start-for-users.md
+    - title: Building Blocks Of Houseware
+      url: /docs/Product Quickstart/building-blocks-of-houseware.md
+    - title: Entities
+      url: /docs/Product Quickstart/building-blocks-of-houseware/entities.md
+    - title: Events
+      url: /docs/Product Quickstart/building-blocks-of-houseware/events.md
+    - title: User Cohorts
+      url: /docs/Product Quickstart/building-blocks-of-houseware/user-cohorts.md
+    - title: Users
+      url: /docs/Product Quickstart/building-blocks-of-houseware/users.md
+    - title: Houseware Onboarding Guide
+      url: /docs/Product Quickstart/houseware-onboarding-guide.md
+    - title: How To Create Your Workspace
+      url: /docs/Product Quickstart/how-to-create-your-workspace.md
+    - title: Quick Start For Admins
+      url: /docs/Product Quickstart/quick-start-for-admins.md
+    - title: Quick Start For Users
+      url: /docs/Product Quickstart/quick-start-for-users.md
 - title: System Security
   children:
-  - title: Customer Support
-    url: /docs/System Security/customer-support.md
-  - title: Houseware Architecture
-    url: /docs/System Security/houseware-architecture.md
-  - title: Houseware Security Overview
-    url: /docs/System Security/houseware-security-overview.md
+    - title: Customer Support
+      url: /docs/System Security/customer-support.md
+    - title: Houseware Architecture
+      url: /docs/System Security/houseware-architecture.md
+    - title: Houseware Security Overview
+      url: /docs/System Security/houseware-security-overview.md
