@@ -2,3 +2,35 @@ title: Houseware Docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 nav: _navigation.yml
+
+# Enable search
+search_enabled: true
+
+# Organize collections
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+      nav_order: 1
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+  repository_url: https://github.com/houseware/houseware-docs-export
+
+# Aux links for the upper right navigation
+aux_links:
+  "View on GitHub":
+    - "https://github.com/houseware/houseware-docs-export"
+
+# Footer content
+footer_content: "Copyright &copy; 2024 Houseware. Distributed by an <a href=\"https://github.com/houseware/houseware-docs-export\">MIT license</a>."
